@@ -2,6 +2,7 @@
 
 Aplikasi Flutter sederhana untuk mencatat (Create, Read, Update, Delete) yang menyimpan data ke SQLite database.
 
+## Fitur Aplikasi
 - **Create** - Tambah note baru  
 - **Read** - Tampilkan semua notes dalam list  
 - **Update** - Edit note yang sudah ada  
@@ -120,5 +121,3 @@ CREATE TABLE notes (
 
 ### CRUD Page : 
 <img width="473" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6791c31-17dd-403e-a010-fbbc17a2281a" />
-
-## Fitur Aplikasi
