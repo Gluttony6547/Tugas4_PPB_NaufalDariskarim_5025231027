@@ -1,8 +1,6 @@
 # Notes App - CRUD dengan SQLite
 
-Aplikasi Flutter sederhana untuk mencatat (Create, Read, Update, Delete) yang menyimpan data ke SQLite local database.
-
-## Fitur Aplikasi
+Aplikasi Flutter sederhana untuk mencatat (Create, Read, Update, Delete) yang menyimpan data ke SQLite database.
 
 - **Create** - Tambah note baru  
 - **Read** - Tampilkan semua notes dalam list  
@@ -113,3 +111,14 @@ CREATE TABLE notes (
 - Tidak memerlukan backend server
 - Tidak memerlukan internet connection
 
+## Snapshots : 
+### Homepage :
+<img width="477" height="1025" alt="image" src="https://github.com/user-attachments/assets/6bdb9dbb-9b22-4382-ba36-17a8bae1f978" />
+
+### Login page :
+<img width="478" height="1026" alt="image" src="https://github.com/user-attachments/assets/a2b33638-9f5c-4198-a9d0-e9350cd68198" />
+
+### CRUD Page : 
+<img width="473" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6791c31-17dd-403e-a010-fbbc17a2281a" />
+
+## Fitur Aplikasi
