@@ -4,12 +4,12 @@ Aplikasi Flutter sederhana untuk mencatat (Create, Read, Update, Delete) yang me
 
 ## Fitur Aplikasi
 
-✅ **Create** - Tambah note baru  
-✅ **Read** - Tampilkan semua notes dalam list  
-✅ **Update** - Edit note yang sudah ada  
-✅ **Delete** - Hapus note dengan konfirmasi  
-✅ **Timestamp** - Setiap note menyimpan waktu pembuatan  
-✅ **Sorting** - Notes ditampilkan dari terbaru ke terlama  
+- **Create** - Tambah note baru  
+- **Read** - Tampilkan semua notes dalam list  
+- **Update** - Edit note yang sudah ada  
+- **Delete** - Hapus note dengan konfirmasi  
+- **Timestamp** - Setiap note menyimpan waktu pembuatan  
+- **Sorting** - Notes ditampilkan dari terbaru ke terlama  
 
 ## Struktur Project
 
